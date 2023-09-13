@@ -13,6 +13,6 @@
         <li>Program dikerjakan pada Google Colaboratory.</li>
         <li>Akurasi dari model minimal 85%.</li>
         <li>Contoh Prediksi Gambar:</li>
-        <li>![image](https://github.com/bluevita/Proyek_Akhir_Dicoding_Klasifikasi_Gambar/assets/99781596/cb78dfb4-ed8c-4faa-8972-e5235f93fa92)</li>
+        ![image](https://github.com/bluevita/Proyek_Akhir_Dicoding_Klasifikasi_Gambar/assets/99781596/cb78dfb4-ed8c-4faa-8972-e5235f93fa92)
         <li>Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.</li>
     </ul>
