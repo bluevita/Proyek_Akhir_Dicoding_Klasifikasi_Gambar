@@ -12,7 +12,7 @@
         <li>Pelatihan model tidak melebihi waktu 30 menit.</li>
         <li>Program dikerjakan pada Google Colaboratory.</li>
         <li>Akurasi dari model minimal 85%.</li>
-        <li>Contoh Prediksi Gambar:</li>
-        ![image](https://github.com/bluevita/Proyek_Akhir_Dicoding_Klasifikasi_Gambar/assets/99781596/cb78dfb4-ed8c-4faa-8972-e5235f93fa92)
         <li>Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.</li>
+        <li>Contoh Prediksi Gambar:</li>
     </ul>
+![image](https://github.com/bluevita/Proyek_Akhir_Dicoding_Klasifikasi_Gambar/assets/99781596/c909836d-5909-4695-b4b6-3d92e735b45e)
